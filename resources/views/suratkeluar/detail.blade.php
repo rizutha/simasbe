@@ -28,7 +28,7 @@
                         <p class='col-2'>Tanggal keluar</p><tr>: {{$suratkeluar->tgl_keluar}}</tr>
                     </div>
                     <div class='row'> 
-                        <p class='col-2'>Tujuan</p><tr>: {{$suratkeluar->Tujuan}}</tr>
+                        <p class='col-2'>Tujuan</p><tr>: {{$suratkeluar->tujuan}}</tr>
                     </div> 
                     <div class='row'> 
                         <p class='col-2'>Ringkasan</p><tr>: {{$suratkeluar->ringkasan}}</tr>
