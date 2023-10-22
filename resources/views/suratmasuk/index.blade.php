@@ -7,9 +7,9 @@
                 <div class='d-flex justify-content-between'>
                     <h4 class="">Data Surat Masuk</h4>
                     <div>
-                        <a href="{{route('suratmasuks.create')}}" class="btn btn-primary " style='margin-top= 20px;'><i class="fa fa-plus"></i> Tambah Data</a>&nbsp;
-                        <a href="{{url('suratmasukimport')}}" class="btn btn-warning "><i class="fa fa-upload"></i> Import Data</a>&nbsp;
-                        <a href="{{url('suratmasukpdf')}}" class="btn btn-danger "><i class="fa-solid fa-file-pdf"></i> Export PDF</a>
+                        <a href="{{route('suratmasuks.create')}}" class="btn btn-primary"><i class="fa fa-plus"></i> Tambah Data</a>&nbsp;
+                        <a href="{{url('suratmasukimport')}}" class="btn btn-warning"><i class="fa fa-upload"></i> Import Data</a>&nbsp;
+                        <a href="{{url('suratmasukpdf')}}" class="btn btn-danger"><i class="fa-solid fa-file-pdf"></i>Export PDF</a>
                     </div>
                 </div>
             </div>
